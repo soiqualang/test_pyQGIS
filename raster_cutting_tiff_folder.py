@@ -10,7 +10,7 @@ from pathlib import Path
 # Thu muc chua anh can cat
 foin = Path('C:/Users/soiqu/Desktop/test_pyQGIS/2000/')
 # Duong dan den shapefile lam ranh cat
-shp_path='C:/Users/soiqu/Desktop/test_pyQGIS/shp/gialai.shp'
+shp_path='C:/Users/soiqu/Desktop/test_pyQGIS/Ranhgioi_songBa_final_shp/RanhGioi_songBa_final.shp'
 # Thu muc luu ket qua
 foout='C:/Users/soiqu/Desktop/test_pyQGIS/kq/'
 
